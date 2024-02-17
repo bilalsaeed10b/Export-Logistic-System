@@ -1,5 +1,5 @@
 # Export-Logistic-System
-This software simplifies export operations with features like order management, real-time tracking, and document generation. It ensures efficiency in processing orders and managing shipments, making the export process seamless for businesses.
+This software simplifies export operations with features like order management and document generation. It ensures efficiency in processing orders and managing shipments, making the export process seamless for businesses.
 
 
 Export Logistic System is a powerful tool designed to streamline the export process. With a robust feature set, it excels in creating Bills of Lading and generating pricing information. The software seamlessly integrates all crucial shipment details, ensuring accuracy and efficiency in documentation. From order inception to final delivery, it facilitates a smooth workflow, offering a centralized platform for managing diverse aspects of export logistics.
